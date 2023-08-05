@@ -45,3 +45,11 @@ npm run seed
 
 npm start
 ```
+
+## Questions
+
+- Github:https://github.com/fibikunle/challenge13-orm-ecommerce
+
+- Walkthrough video:
+
+- Email:felixibikunle@gmail.com
