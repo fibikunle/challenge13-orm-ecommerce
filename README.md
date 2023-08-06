@@ -50,6 +50,6 @@ npm start
 
 - Github:https://github.com/fibikunle/challenge13-orm-ecommerce
 
-- Walkthrough video:
+- Walkthrough video:https://www.loom.com/share/7348043f23434d9f9754198ce7c8b3e0?sid=78c55168-2c63-4775-94cc-3f4ff001d3f9 
 
 - Email:felixibikunle@gmail.com
